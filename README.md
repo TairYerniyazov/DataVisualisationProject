@@ -29,12 +29,7 @@ This repository contains the code and data for a data visualization project on E
 
 ---
 
-**Authors:**
-<br>© Daniel Broś, Piotr Wojcieszak, Tair Yerniyazov
-
----
-
-**Some examples:**
+## Some examples:
 <p align="center">
     <img width="40%" src="https://github.com/TairYerniyazov/DataVisualisationProject/blob/main/unemployment_rates/other/Example.png" 
       alt="Sample 1">
@@ -51,3 +46,7 @@ This repository contains the code and data for a data visualization project on E
     <img width="35%" src="https://github.com/TairYerniyazov/DataVisualisationProject/blob/main/infografika/Infografika_3.png" 
       alt="Sample 5">
 </p>
+
+---
+
+## <b>© Daniel Broś, Piotr Wojcieszak, Tair Yerniyazov<b>
