@@ -31,3 +31,11 @@ This repository contains the code and data for a data visualization project on E
 
 **Authors:**
 <br>© Daniel Broś, Piotr Wojcieszak, Tair Yerniyazov
+
+---
+
+**Some examples:**
+<p align="left">
+    <img width="100%" src="https://github.com/TairYerniyazov/DataVisualisationProject/blob/main/adjusted_salary/samples/2.png" 
+      alt="Structure of the model (layers)">
+</p>
