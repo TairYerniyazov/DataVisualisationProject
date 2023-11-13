@@ -35,13 +35,19 @@ This repository contains the code and data for a data visualization project on E
 ---
 
 **Some examples:**
-<p align="left">
-    <img width="100%" src="https://github.com/TairYerniyazov/DataVisualisationProject/blob/main/adjusted_salary/samples/2.png" 
-      alt="Structure of the model (layers)">
-</p>
-<p align="left">
-    <img width="49%" src="https://github.com/TairYerniyazov/DataVisualisationProject/blob/main/unemployment_rates/other/Example.png" 
+<p align="center">
+    <img width="40%" src="https://github.com/TairYerniyazov/DataVisualisationProject/blob/main/unemployment_rates/other/Example.png" 
+      alt="Sample 1">
+    <img width="40%" src="https://github.com/TairYerniyazov/DataVisualisationProject/blob/main/co2_emissions/other/Example.png" 
       alt="Sample 2">
-    <img width="49%" src="https://github.com/TairYerniyazov/DataVisualisationProject/blob/main/co2_emissions/other/Example.png" 
+</p>
+<p align="center">
+    <img width="80%" src="https://github.com/TairYerniyazov/DataVisualisationProject/blob/main/adjusted_salary/samples/2.png" 
       alt="Sample 3">
+</p>
+<p align="center" style="padding: 30px">
+    <img width="35%" src="https://github.com/TairYerniyazov/DataVisualisationProject/blob/main/infografika/Infografika.png" 
+      alt="Sample 4">
+    <img width="35%" src="https://github.com/TairYerniyazov/DataVisualisationProject/blob/main/infografika/Infografika_3.png" 
+      alt="Sample 5">
 </p>
